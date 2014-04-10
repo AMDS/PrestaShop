@@ -26,4 +26,5 @@
 */
 
 require(dirname(__FILE__).'/../classes/PrestaShopPHPUnit.php');
+require(dirname(__FILE__).'/../classes/ModulePrestaShopPHPUnit.php');
 require(dirname(__FILE__).'/../../config/config.inc.php');
